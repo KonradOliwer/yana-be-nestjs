@@ -1,5 +1,6 @@
-This is [nodejs](https://nodejs.org) + [Flask](https://flask.palletsprojects.com/) + [NestJS](https://nestjs.com/) implementation of backend
+This is [nodejs](https://nodejs.org)  + [NestJS](https://nestjs.com/) implementation of backend
 For more details about project read frontend [README.md](https://github.com/KonradOliwer/yana-fe-react/)
+Make sure to use same tag version for frontend and backend to ensure compatibility.
 
 ## Using app
 ### Requirements
